@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Miramare</string>
+    <string name="action_settings">Settings</string>
+    <string name="output_proximity_gps">Output Proximity GPS</string>
+    <!-- Strings used for fragments for navigation -->
+
+
+</resources>
